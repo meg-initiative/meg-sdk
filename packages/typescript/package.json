@@ -1,0 +1,31 @@
+{
+  "name": "meg-compliance",
+  "version": "0.1.0",
+  "description": "A middleware for making AI systems compliant with the Minimal Ethical Governance (MEG) protocol.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meg-initiative/meg-sdk.git"
+  },
+  "author": "MEG Initiative <https://meg-initiative.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/meg-initiative/meg-sdk/issues"
+  },
+  "homepage": "https://github.com/meg-initiative/meg-sdk#readme",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "ai",
+    "ethics",
+    "governance",
+    "meg-protocol",
+    "llm"
+  ]
+}
