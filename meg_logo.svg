@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 15000 5000">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#008450}
+    .fil1 {fill:#B81D13}
+    .fil3 {fill:#EFB700}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" y="0" width="15000" height="5000"/>
+  <rect class="fil1" x="499.98" y="500.01" width="1000.01" height="4000"/>
+  <rect class="fil1" x="2000.01" y="500.01" width="999.98" height="2000"/>
+  <rect class="fil1" x="3499.99" y="500.01" width="1000.01" height="4000"/>
+  <rect class="fil2" transform="matrix(5.72952E-14 -2.16335 1.41694 3.7527E-14 10497.9 4500.01)" width="462.25" height="2822.98"/>
+  <rect class="fil2" transform="matrix(5.72952E-14 -2.16335 1.41694 3.7527E-14 10500 1500)" width="462.25" height="2822.98"/>
+  <rect class="fil2" transform="matrix(2.86469E-14 -2.1633 0.354235 1.87635E-14 10497.9 3000)" width="462.25" height="2822.98"/>
+  <rect class="fil3" transform="matrix(5.72952E-14 -2.16335 1.41694 3.7527E-14 5500.01 4500.02)" width="462.25" height="2822.98"/>
+  <rect class="fil3" transform="matrix(5.72939E-14 -2.1633 0.70847 1.87635E-14 5500.01 3000.01)" width="462.25" height="2822.98"/>
+  <rect class="fil2" transform="matrix(2.86471E-14 -2.1633 0.354237 1.87635E-14 13500 3500.01)" width="462.25" height="2822.98"/>
+  <rect class="fil3" transform="matrix(5.72952E-14 -2.16335 1.41694 3.7527E-14 5500.01 1500.01)" width="462.25" height="2822.98"/>
+ </g>
+</svg>
