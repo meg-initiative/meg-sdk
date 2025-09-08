@@ -8,7 +8,7 @@ Our goal is to make MEG compliance as simple as possible. The **MEG Quickstart M
 ---
 
 ### Quickstart: Become MEG Bronze Compliant in 5 Minutes 
- 
+<code>
 #### For Python: 
 # **1. Install the library** 
 pip install meg-compliance 
@@ -29,11 +29,11 @@ user_prompt = "Hello, world!"
 response = compliant_ai_function(user_prompt) 
  
 # **Audit logs are automatically created in the default location** 
- 
+</code>
 --- 
  
 #### For JavaScript / TypeScript: 
- 
+<code>
 // **1. Install the library** 
 npm install meg-compliance 
  
@@ -54,7 +54,8 @@ const user_prompt = "Hello, world!";
 const response = await compliant_ai_function.process(user_prompt); 
  
 // **Audit logs are automatically created in the default location** 
- 
+
+</code>
 --- 
  
 ### Features
